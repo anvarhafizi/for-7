@@ -1,0 +1,11 @@
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.exe
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.deps.json
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.runtimeconfig.json
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.runtimeconfig.dev.json
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.dll
+C:\Lessons\Lesson28-03\bin\Debug\netcoreapp3.1\MyApp5.pdb
+C:\Lessons\Lesson28-03\obj\Debug\netcoreapp3.1\MyApp5.csprojAssemblyReference.cache
+C:\Lessons\Lesson28-03\obj\Debug\netcoreapp3.1\MyApp5.AssemblyInfoInputs.cache
+C:\Lessons\Lesson28-03\obj\Debug\netcoreapp3.1\MyApp5.AssemblyInfo.cs
+C:\Lessons\Lesson28-03\obj\Debug\netcoreapp3.1\MyApp5.dll
+C:\Lessons\Lesson28-03\obj\Debug\netcoreapp3.1\MyApp5.pdb
